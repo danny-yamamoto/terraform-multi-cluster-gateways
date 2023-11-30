@@ -6,7 +6,8 @@
 	"image": "mcr.microsoft.com/devcontainers/go:1-1.21-bullseye",
 	"features": {
 		"ghcr.io/devcontainers/features/rust:1": {},
-		"ghcr.io/devcontainers/features/terraform:1": {}
+		"ghcr.io/devcontainers/features/terraform:1": {},
+		"ghcr.io/dhoeric/features/k6:1": {}
 	},
 	"customizations": {
 		"vscode": {
